@@ -1,1 +1,4 @@
-123
+void main ()
+{
+	printf("hello ");
+}
