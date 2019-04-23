@@ -1,1 +1,0 @@
-# SYngsss.github.io
